@@ -120,7 +120,9 @@ You can use the default keyboard shortcuts for inline suggestions in Xcode when 
 You can use the default keyboard shortcuts for inline suggestions in Eclipse when using {% data variables.product.prodname_copilot %}.
 
 | Action | Shortcut |
-|:---|:---|
+|:---|:---|[keyboard-shortcuts.md](https://github.com/user-attachments/files/25800280/keyboard-shortcuts.md)
+<img width="1350" height="270" alt="Designer" src="https://github.com/user-attachments/assets/51196b22-71b4-4ae8-a6dd-891af148f855" />
+
 |Accept an inline suggestion|<kbd>Tab</kbd>|
 |Accept next word of an inline suggestion|<kbd>Command</kbd>+<kbd>&rarr;</kbd> (Mac) or <kbd>Ctrl</kbd>+<kbd>&rarr;</kbd> (Windows)|
 |Dismiss an inline suggestion|<kbd>Esc</kbd>|
